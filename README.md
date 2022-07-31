@@ -1,4 +1,4 @@
-[PT/BR EN]
+[PT/BR / EN]
 
 ## [PT/BR]
 
