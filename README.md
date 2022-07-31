@@ -4,6 +4,8 @@
 
 <h1>OnTrip</h1> 
 
+Você pode assistir a uma demonstração clicando [aqui](https://youtu.be/wtwQAAD6iH4) | You can see a demonstration by clicking [here](https://youtu.be/wtwQAAD6iH4)
+
 ## Squad
 
 > - [Letícia de Araújo](https://www.linkedin.com/in/leticia-de-araujo-nunes/) - PO
