@@ -1,6 +1,6 @@
-[PT/BR / EN]
+[PT-BR / EN]
 
-## [PT/BR]
+## [PT-BR]
 
 <h1>OnTrip</h1> 
 
